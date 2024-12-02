@@ -1391,7 +1391,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   respawnPoint: {fileID: 583599333008314142, guid: 809a18d82e4654f4aa9bdd0e614ee56e, type: 3}
-  detectionRadius: 10
+  detectionRadius: 6
   chaseSpeed: 1
 --- !u!195 &5991437734797525475
 NavMeshAgent:
