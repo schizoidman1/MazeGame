@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Maze.sln"
+    "dotnet.defaultSolution": "MazeGame.sln"
 }
